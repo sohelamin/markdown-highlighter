@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: sohelamin
-Tags: markdown highligter, markdown, syntax highlighter
+Tags: markdown highlighter, markdown, syntax highlighter
 Requires at least: 3.8
 Tested up to: 4.5
 Stable tag: 4.5
@@ -21,7 +21,7 @@ Features:
 
 == Installation ==
 
-1. Search on plugin page **Markdown Highligter** or Upload `markdown-highlighter` to the `/wp-content/plugins/` directory
+1. Search on plugin page **Markdown Highlighter** or Upload `markdown-highlighter` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
