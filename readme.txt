@@ -14,8 +14,8 @@ A plugin to parse the markdown content from post then highlight it as syntax hig
 Features:
 
 * Markdown Parser
-* Syntax Highligter
-* Syntax Highligter can work without markdown format also
+* Syntax Highlighter
+* Syntax Highlighter can work without markdown format also
 * Highlightjs with github style included
 
 
