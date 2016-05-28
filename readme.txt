@@ -25,6 +25,12 @@ Features:
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
+== Screenshots ==
+
+1. `/assets/screenshot-1.png`
+2. `/assets/screenshot-2.png`
+
+
 == Changelog ==
 
 = 0.1 =
